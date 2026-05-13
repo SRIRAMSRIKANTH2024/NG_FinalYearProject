@@ -1,7 +1,7 @@
 # NG_FinalYearProject
 This is NeighbourGuard Smart Hazard Reporting and Response System 
 
-1.create Python Environment 
+1.Create Python Environment 
 cmd:python -m venv myenv
 
 
